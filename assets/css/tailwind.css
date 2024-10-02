@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Open Sans";
+}
+h1 {
+  font-family: Montserrat;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-family: "Open Sans";
+  font-style: italic;
+  color: theme("colors.prGreen.100");
+}
+
+.story .prose {
+  --tw-prose-headings: theme("colors.prGreen.100");
+}

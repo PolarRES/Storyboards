@@ -1,0 +1,20 @@
+{
+  "name": "remark-chapters-config",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Remark chapter config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "remark",
+    "plugin"
+  ],
+  "author": "Arnaud Browet",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^5.0.0"
+  }
+}

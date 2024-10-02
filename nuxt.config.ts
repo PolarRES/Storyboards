@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   },
 
   app: {
-    baseURL: "/storyboards/",
+    baseURL: "/Storyboards/",
   },
 
   components: true,

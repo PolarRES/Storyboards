@@ -19,7 +19,7 @@
 
     <!-- Chapter image and description -->
     <div v-for="(chapter, idx) in data?.chapters" v-show="idx === currentChapter" :key="idx" class="flex-1 flex flex-col-reverse md:flex-row-reverse justify-end gap-2 md:min-h-0">
-      <div class="p-4 w-full md:w-1/3 bg-white rounded overflow-auto">
+      <div class="p-4 w-full md:w-1/3 bg-white rounded md:overflow-auto">
         <ContentRenderer :value="chapter">
           <div class="prose mb-6">
             <ContentRendererMarkdown :value="chapter" />
@@ -35,7 +35,7 @@
           v-if="!chapter.props?.image.endsWith('html')"
           :src="getContent(chapter.props?.image)"
           alt="story image"
-          class="object-contain w-auto h-full max-w-full max-h-full mx-auto"
+          class="object-contain w-auto md:h-full max-w-full max-h-full mx-auto"
           @click="openBigImage"
         />
         <iframe v-else :src="getContent(chapter.props.image)" frameborder="0" class="w-full h-full" />

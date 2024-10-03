@@ -22,8 +22,8 @@ export default defineNuxtConfig({
   googleFonts: {
     families: {
       "Open Sans": {
-        wght: [400],
-        ital: [400],
+        wght: [400, 600],
+        ital: [400, 600],
       },
       Montserrat: {
         wght: [700],

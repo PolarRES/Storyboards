@@ -8,7 +8,7 @@
 
     <div class="m-2 flex justify-center">
       <!-- search -->
-      <input v-model="query" type="search" class="w-1/3 m-4 p-2 self-center border rounded-md" placeholder="search"></input>
+      <input v-model="query" type="search" class="w-4/5 max-w-96 m-4 p-2 self-center border rounded-md" placeholder="search"></input>
     </div>
 
     <!-- categories -->

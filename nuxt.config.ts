@@ -35,16 +35,13 @@ export default defineNuxtConfig({
     // fullTextSearchFields: ['id', 'slug', 'title', 'author', 'thumbnail', 'category'],
 
     sources: {
-      // content: {
-      //   driver: "fs",
-      //   base: resolve(__dirname, "public/stories"),
-      // },
-
       // Additional sources
-      fa: {
+      stories: {
         prefix: "/stories", // All contents inside this source will be prefixed with `/fa`
         driver: "fs",
         // ...driverOptions
+        extensions: [".md"],
+        ignore: ["/stories/**/*"],
         base: resolve(__dirname, "public/stories"), // Path for source directory
       },
     },

@@ -2,7 +2,7 @@
   <div class="flex flex-col gap-2">
     <!-- Banner -->
     <div class="flex gap-10 m-2 items-center flex-wrap">
-      <img class="max-h-24 mix-blend-darken" src="/PolarRES-logo-min.png" alt="Polar RES" />
+      <img class="logo max-h-24" src="/PolarRES-logo-min.png" alt="Polar RES" />
       <h1 class="text-2xl text-prDarkBlue-100">Overview of Polar RES Storyboards</h1>
     </div>
 

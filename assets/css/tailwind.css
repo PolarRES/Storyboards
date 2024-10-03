@@ -19,3 +19,8 @@ h1 {
 .story .prose {
   --tw-prose-headings: theme("colors.prGreen.100");
 }
+
+.logo {
+  transform: transalte3d(0, 0, 0);
+  mix-blend-mode: darken;
+}

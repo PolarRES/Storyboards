@@ -3,7 +3,7 @@
     <!-- Banner -->
     <div class="flex gap-10 m-2 items-center flex-wrap">
       <NuxtLink :to="`/`">
-        <img class="max-h-24 mix-blend-darken" src="/PolarRES-logo-min.png" alt="Polar RES" />
+        <img class="logo max-h-24" src="/PolarRES-logo-min.png" alt="Polar RES" />
       </NuxtLink>
       <h1 class="text-2xl text-prDarkBlue-100">Storyboard: {{ data?.storyContent.title }}</h1>
     </div>

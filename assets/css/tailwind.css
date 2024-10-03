@@ -4,6 +4,11 @@
 
 body {
   font-family: "Open Sans";
+  color: theme("colors.prDarkBlue.100");
+}
+.prose {
+  --tw-prose-headings: theme("colors.prDarkBlue.100");
+  --tw-prose-body: theme("colors.prDarkBlue.100");
 }
 h1 {
   font-family: Montserrat;
@@ -18,4 +23,13 @@ h1 {
 
 .story .prose {
   --tw-prose-headings: theme("colors.prGreen.100");
+}
+
+.logo {
+  transform: translate3d(0, 0, 0);
+  mix-blend-mode: darken;
+}
+
+.main-container {
+  --tw-bg-opacity: 0.25;
 }

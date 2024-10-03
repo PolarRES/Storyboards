@@ -46,6 +46,12 @@ export default defineNuxtConfig({
       },
     },
 
+    experimental: {
+      search: {
+        indexed: true,
+      },
+    },
+
     markdown: {
       anchorLinks: false,
 

@@ -52,6 +52,9 @@
 <script setup lang="ts">
 const { params } = useRoute();
 
+const config = useRuntimeConfig();
+const baseURL = config.public.baseURL;
+
 const currentChapter = ref(0);
 const showBigImage = ref(false);
 
@@ -82,7 +85,7 @@ const gitHubURL = () => {
 };
 
 const getContent = (path: string) => {
-  return `stories/_${story}/${path}`;
+  return `${baseURL}/stories/_${story}/${path}`;
 };
 
 const openBigImage = () => {

@@ -85,7 +85,7 @@ const gitHubURL = () => {
 };
 
 const getContent = (path: string) => {
-  return `${baseURL}/stories/_${story}/${path}`;
+  return `${baseURL}stories/_${story}/${path}`;
 };
 
 const openBigImage = () => {

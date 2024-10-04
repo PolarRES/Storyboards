@@ -15,6 +15,12 @@ export default defineNuxtConfig({
     baseURL: "/Storyboards/",
   },
 
+  runtimeConfig: {
+    public: {
+      baseURL: "/Storyboards/",
+    },
+  },
+
   components: true,
 
   modules: ["@nuxtjs/tailwindcss", "@nuxt/content", "@nuxtjs/google-fonts", "@nuxt/image"],

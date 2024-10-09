@@ -5,8 +5,9 @@
       <NuxtLink :to="`/`">
         <img class="logo max-h-24" src="/PolarRES-logo-min.png" alt="Polar RES" />
       </NuxtLink>
-      <h1 class="text-2xl text-prDarkBlue-100">Storyboard: {{ data?.storyContent.title }}</h1>
     </div>
+
+    <h1 class="text-2xl text-prDarkBlue-100 my-5">Storyboard: {{ data?.storyContent.title }}</h1>
 
     <!-- Chapter overview bar -->
     <div class="flex no-wrap text-left gap-2 overflow-x-auto">

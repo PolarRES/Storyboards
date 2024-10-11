@@ -1,11 +1,6 @@
 <template>
   <div class="story flex-1 flex flex-col gap-2 md:min-h-0">
-    <!-- Banner -->
-    <div class="flex gap-10 m-2 items-center flex-wrap">
-      <NuxtLink :to="`/`">
-        <img class="logo max-h-24" src="/PolarRES-logo-min.png" alt="Polar RES" />
-      </NuxtLink>
-    </div>
+    <Header />
 
     <h1 class="text-2xl text-prDarkBlue-100 my-5">Storyboard: {{ data?.storyContent.title }}</h1>
 

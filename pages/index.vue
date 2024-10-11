@@ -1,10 +1,6 @@
 <template>
   <div class="flex flex-col gap-2">
-    <!-- Banner -->
-    <div class="flex gap-10 m-2 items-center flex-wrap">
-      <img class="logo max-h-24" src="/PolarRES-logo-min.png" alt="Polar RES" />
-      <h1 class="text-2xl text-prDarkBlue-100">Overview of Polar RES Storyboards</h1>
-    </div>
+    <Header title="Overview of PolarRES Storyboards" />
 
     <div class="m-2 flex justify-center">
       <!-- search -->

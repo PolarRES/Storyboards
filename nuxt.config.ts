@@ -1,6 +1,11 @@
 import { resolve } from "node:path";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
+const BASE_URL_LOCAL = "/";
+const BASE_URL_GITHUB = "/Storyboards/";
+
+const BASE_URL = process.env.NODE_ENV !== "production" ? BASE_URL_LOCAL : BASE_URL_GITHUB;
+
 export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
   devtools: { enabled: true },
@@ -12,15 +17,15 @@ export default defineNuxtConfig({
   },
 
   app: {
-    baseURL: "/Storyboards/",
+    baseURL: `${BASE_URL}`,
     head: {
-      link: [{ rel: "icon", type: "image/x-icon", href: "/Storyboards/favicon.png" }],
+      link: [{ rel: "icon", type: "image/x-icon", href: `${BASE_URL}favicon.png` }],
     },
   },
 
   runtimeConfig: {
     public: {
-      baseURL: "/Storyboards/",
+      baseURL: `${BASE_URL}`,
     },
   },
 

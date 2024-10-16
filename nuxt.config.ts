@@ -13,6 +13,9 @@ export default defineNuxtConfig({
 
   app: {
     baseURL: "/Storyboards/",
+    head: {
+      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.png" }],
+    },
   },
 
   runtimeConfig: {

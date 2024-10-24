@@ -1,5 +1,5 @@
 ---
-id: 13
+id: 50
 trl: medium
 category: PolarRES in Practice Stories
 title: Science at DMI’s Geophysical Facility: Inglefield Bredning, NW Greenland

@@ -42,7 +42,7 @@ Fourteen years of data on ocean, sea ice, and snow thickness, including snapshot
 
 ## UAV Measurements
 
-We have also been flying a UAV to measure surface temperatures over a wider area. Here you can see UAV measurements of surface temperature, the white spots are people, dogs and equipment. The black spot in the middle is the bright reflector we use as a control point. 
+We have also been flying a unmanned aerial vehicle (UAV) to measure surface temperatures over a wider area. Here you can see UAV measurements of surface temperature, the white spots are people, dogs and equipment. The black spot in the middle is the bright reflector we use as a control point. 
 
 :::
 
@@ -52,25 +52,28 @@ We have also been flying a UAV to measure surface temperatures over a wider area
 
 ## Do you want to dig a snow pit? 
 
-The equipment you’ll need is shown here. This is snow on sea ice and it’s not very deep, only around 10 cm deep. But it is nevertheless important, because the snow acts as a very effective insulation layer, preventing the formation of sea ice (which grows from the top, because the sea below is much warmer. The air temperature is aboutt -19C in this photo, at the bottom of the snow on top of the ice it was only -5C. The sea ice is around a metre thick and the ocean water beneath it around +3C. 
-Getting the snow depth right in our models is extremely importnat for all kinds of Arctic processes, including the growth of sea ice, local air temperatures, the permafrost and the survival of vegetation underneath the snow.
+The equipment you’ll need is shown here. This is snow on sea ice and it’s not very deep, only around 10 cm deep. But it is nevertheless important, because the snow acts as a very effective insulation layer, preventing the formation of sea ice (which grows from the top, because the sea below is much warmer). 
+
+The air temperature is about -19C in this photo, at the bottom of the snow on top of the ice it was only -5C. The sea ice is around a metre thick and the ocean water beneath it around +3C. 
+
+Getting the snow depth right in our models is extremely important for all kinds of Arctic processes, including the growth of sea ice, local air temperatures, the permafrost and the survival of vegetation underneath the snow.
 
 :::
 
 <!-- Section eight -->
 
-:::Chapter{headline="Surface hoar" image="hoar.png"}
+:::Chapter{headline="Surface Hoar" image="hoar.png"}
 
 ## Surface hoar crystals
 
-These are surface hoar crystals, frost that forms in a very cold but still atmosphere on cold surfaces. Often we woke up to find them new grown overnight,  but in the sun, they evaporate again.
+These are surface hoar crystals - frost that forms in a very cold, still atmosphere on cold surfaces. Often, we woke up to find them newly grown overnight, but in the sun, they evaporate again.
 
 
 :::
 
 <!-- Section eleven -->
 
-:::Chapter{headline="Polar bear footprints" image="footprints.png"}
+:::Chapter{headline="Polar Bear Footprints" image="footprints.png"}
 
 ## Polar bear footprints 
 
@@ -81,25 +84,25 @@ We found them.
 
 <!-- Section ten -->
 
-:::Chapter{headline="In action" image="work.png"}
+:::Chapter{headline="Action" image="work.png"}
 
 ## Science in action 
 
-1. A layer of large crystals between two layes of smaller ones. This is depth hoar, it’s an extremely important layer that forms when there is cold air above, and a warmer surface below. 
-2. It is very very insulating
-3. Our local hunters, pointing out polar bear footprints filmed by the UAV
-4. DMI colleague taking a sea ice core to measure depth and salinity in the ice. 
+1. A layer of large crystals between two layers of smaller ones. This is depth hoar, an extremely important layer that forms when cold air sits above a warmer surface. 
+2. It is very very insulating.
+3. Our local hunters pointing out polar bear footprints filmed by the UAV.
+4. DMI colleague taking a sea ice core to measure depth and salinity of the ice. 
 
 
 :::
 
 <!-- Section eleven -->
 
-:::Chapter{headline="Camp life" image="camp.png"}
+:::Chapter{headline="Camp Life" image="camp.png"}
 
 ## Camp life 
 
-We often camp out over 2 or 3 nights, we push the sleds together and put tents up over them to form a sheltered bed. There is a stove in each tent to allow equipment to dry out over night.
+We often camp out for 2 or 3 nights, we push the sleds together and set tents up over them to create a sheltered bed. There is a stove in each tent to allow equipment to dry out overnight.
 
 
 :::
@@ -110,7 +113,7 @@ We often camp out over 2 or 3 nights, we push the sleds together and put tents u
 
 ## Keeping the equipment warm 
 
-We keep out scientific equipment inside the tent overnight to prevent the batteries getting too cold. The hunters help with the fieldwork and also with camp tasks like melting ice for drinking water and cooking with.
+We keep our scientific equipment inside the tent overnight to prevent the batteries from getting too cold. The hunters help with the fieldwork as well as camp tasks, such as melting ice for drinking water and cooking.
 
 
 

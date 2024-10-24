@@ -17,7 +17,7 @@ The dashboard is automatically compiled and publisehd at [https://polarres.githu
 
 ## File Structure
 
-Stories are defined using markdown (.md) files. All stories should be stored in the /public/stories folder (e.g. my-story-name.md). Note that the filename should not contain spaces or special characters (the filename will be mapped to a story url on the website). To store additional files used in your story (like images), you must created a directory with the name of your story preceded by an underscore "\_" (e.g \_my-story-name) in the /public/stories folder. Again, do not use any special characters in your additional file names.
+Stories are defined using markdown (.md) files. All stories should be stored in the /public/stories folder (e.g. my-story-name.md). Note that the filename should not contain spaces or special characters and **only lowercase letters** (the filename will be mapped to a story url on the website). To store additional files used in your story (like images), you must created a directory with the name of your story preceded by an underscore "\_" (e.g \_my-story-name) in the /public/stories folder. Again, do not use any special characters in your additional file names.
 
 ## Story File
 

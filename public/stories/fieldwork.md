@@ -1,7 +1,7 @@
 ---
 id: 50
 trl: medium
-category: "PolarRES in Practice Stories"
+category: "1. PolarRES in Practice Stories"
 title: "Science at DMI’s Geophysical Facility: Inglefield Bredning, NW Greenland"
 author: Ruth Mottram (DMI)
 thumbnail: "intro.png"

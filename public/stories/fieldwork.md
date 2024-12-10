@@ -21,7 +21,7 @@ The large fjord is known as Inglefield Bredning or Kangerlussuaq (there are seve
 :::Chapter{headline="Local Knowledge" image="observatory.png"}
 ## Working together with the local Community
 
-We work closely with the local community in this region. Our field station is managed by Aksel, who was brought up in the village of Qaanaaq. The main local source of employment is fishing, for halibut and hunting, for seal, reindeer, narwhal and walrus. DMI scientists travel out into the field with local hunters. Their knowledge of the snow and sea ice conditions, the weather and how to camp out overnight is unparalleled.
+We work closely with the local community in this region. Our field station is managed by Aksel, who is from the village of Qaanaaq. The main local source of employment is fishing, for halibut and hunting, for seal, reindeer, narwhal and walrus. DMI scientists travel out into the field with local hunters. Their knowledge of the snow and sea ice conditions, the weather and how to camp out overnight is unparalleled.
 :::
 
 :::Chapter{headline="Observations" image="observations.png"}
@@ -42,7 +42,9 @@ Fourteen years of data on ocean, sea ice, and snow thickness, including snapshot
 
 ## UAV Measurements
 
-We have also been flying a unmanned aerial vehicle (UAV) to measure surface temperatures over a wider area. Here you can see UAV measurements of surface temperature, the white spots are people, dogs and equipment. The black spot in the middle is the bright reflector we use as a control point. 
+We have also been flying an uncrewed aerial vehicle (UAV) to measure surface temperatures over a wider area. Here you can see UAV measurements of surface temperature, the white spots are people, dogs and equipment. The black spot in the middle is the bright reflector we use as a control point. Surface temperature is not the same as air temperature. It is the total of all the sources of energy in an infinitesimally thin layer at the surface. 
+
+Climate models sum up all the energy fluxes- incoming solar energy, the energy emitted by the atmosphere, the energy from the air temperature, as well as the energy that comes from deeper in the ground or snow below. The UAV measures only the very surface and thats what we use to test if our models have the right weather in them.
 
 :::
 
@@ -66,7 +68,7 @@ Getting the snow depth right in our models is extremely important for all kinds 
 
 ## Surface hoar crystals
 
-These are surface hoar crystals - frost that forms in a very cold, still atmosphere on cold surfaces. Often, we woke up to find them newly grown overnight, but in the sun, they evaporate again.
+These are surface hoar crystals - frost that forms in a very cold, still atmosphere on cold surfaces. Often, we woke up to find them newly grown overnight, but in the sun, they evaporate again. The weather station is an important part of the equipment used by scientists to evaluate how well models work. This year we added new instruments (on the far right), that measure snow drift.
 
 
 :::
@@ -78,6 +80,7 @@ These are surface hoar crystals - frost that forms in a very cold, still atmosph
 ## Polar bear footprints 
 
 We found them.
+This region has many seals, which also means there are many bears. We've never seen one during field work but our colleagues from Qaanaaq keep a good look out. These footprints were from a mother with a young cub. 
 
 
 :::
@@ -89,7 +92,7 @@ We found them.
 ## Science in action 
 
 1. A layer of large crystals between two layers of smaller ones. This is depth hoar, an extremely important layer that forms when cold air sits above a warmer surface. 
-2. It is very very insulating.
+2. These are ice flowers, formed when sea water gets squeezed up on to the surface of the sea ice and then evaporates leaving salty ferny crystals behind. They are extremely beautiful and taste surprisingly salty. 
 3. Our local hunters pointing out polar bear footprints filmed by the UAV.
 4. DMI colleague taking a sea ice core to measure depth and salinity of the ice. 
 
@@ -125,8 +128,8 @@ We keep our scientific equipment inside the tent overnight to prevent the batter
 
 ## Different fieldwork tasks  
 
-Has to be done.
+In this series you can see some of the tasks that take time in the field, a block of iceberg ice needs to be chipped apart (with the knife) to provide drinking water, a polar bear footprint is examined by a lego scientist <https://icemangoeshome.wordpress.com/>.
 
-
+The ice spear is not for catching fish, but for clearing ice around a hole where we have been measuring carbon production in the fjord; a sea ice core is sampled for different chemicals and a mooring that has been in place all winter measuring temperature and salinity is being lifted out of the water before the ice breaks up.  
 
 :::

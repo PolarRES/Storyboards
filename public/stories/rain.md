@@ -1,9 +1,10 @@
 ---
 id: 101
-category: TBD
+trl: medium
+category: "PolarRES in Practice Stories"
 title: “Extreme precipitation and atmospheric rivers in West Antarctica”
 author: "Ella Gilbert, José Abraham Torres"
-thumbnail: “amundsen_sea.png"
+thumbnail: "amundsen_sea.png"
 ---
 
 <!-- Section one -->

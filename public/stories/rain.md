@@ -72,19 +72,19 @@ ERA5 (yellow) has the lowest snowfall amounts and no rainfall, while the RCMs al
 
 <!-- Section five -->
 
-:::Chapter{headline="Spatial patterns of precipitation" image="rain_snow_maps"}
+:::Chapter{headline="Spatial patterns of precipitation" image="rain_snow_maps.png"}
 
 ## Spatial patterns of precipitation
 
-*Precipitation is concentrated around steep terrain in all RCMs and ERA5.
+-Precipitation is concentrated around steep terrain in all RCMs and ERA5.
 
-*The RCMs have more snow and rain than ERA5 across the whole region.
+-The RCMs have more snow and rain than ERA5 across the whole region.
 
-*While the ERA5 and RCM-simulated snowfall amounts are more comparable, the high-resolution RCMs have much more rain than ERA5.
+-While the ERA5 and RCM-simulated snowfall amounts are more comparable, the high-resolution RCMs have much more rain than ERA5.
 
-*ERA5 is at approximately 30 km resolution, while the RCMs are at 1 km resolution. 
+-ERA5 is at approximately 30 km resolution, while the RCMs are at 1 km resolution. 
 
-*This shows the benefit of using high-resolution RCMs to explore the dynamics of extreme precipitation in West Antarctica
+-This shows the benefit of using high-resolution RCMs to explore the dynamics of extreme precipitation in West Antarctica
 
 :::
 

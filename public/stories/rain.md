@@ -2,7 +2,7 @@
 id: 101
 trl: medium
 category: "PolarRES in Practice Stories"
-title: “Extreme precipitation and atmospheric rivers in West Antarctica”
+title: Extreme precipitation and atmospheric rivers in West Antarctica
 author: "Ella Gilbert, José Abraham Torres"
 thumbnail: "amundsen_sea.png"
 ---
@@ -25,11 +25,13 @@ In this study, we explore how much rain and snow falls over ice shelves in the A
 
 :::Chapter{headline="Rivers in the sky" image="ar_wille_et_al.png"}
 
-## "rivers in the sky"
+## "Rivers in the sky"
 
-*Precipitation (snow and rain) is the only way ice losses from glaciers and ice shelves are counterbalanced.
-*Lots of precipitation falls during extreme events, including during "atmospheric rivers" - long, thin "rivers in the sky" which bring lots of heat and moisture to Antarctica. 
-*You can see an example in the figure here from [Wille et al. (2023)](https://www.nature.com/articles/s43247-022-00422-9) 
+- Precipitation (snow and rain) is the only way ice losses from glaciers and ice shelves are counterbalanced.
+  
+- Lots of precipitation falls during extreme events, including during "atmospheric rivers" - long, thin "rivers in the sky" which bring lots of heat and moisture to Antarctica.
+  
+- You can see an example in the figure here from [Wille et al. (2023)](https://www.nature.com/articles/s43247-022-00422-9) 
 :::
 
 <!-- Section three -->
@@ -76,15 +78,15 @@ ERA5 (yellow) has the lowest snowfall amounts and no rainfall, while the RCMs al
 
 ## Spatial patterns of precipitation
 
--Precipitation is concentrated around steep terrain in all RCMs and ERA5.
+- Precipitation is concentrated around steep terrain in all RCMs and ERA5.
 
--The RCMs have more snow and rain than ERA5 across the whole region.
+- The RCMs have more snow and rain than ERA5 across the whole region.
 
--While the ERA5 and RCM-simulated snowfall amounts are more comparable, the high-resolution RCMs have much more rain than ERA5.
+- While the ERA5 and RCM-simulated snowfall amounts are more comparable, the high-resolution RCMs have much more rain than ERA5.
 
--ERA5 is at approximately 30 km resolution, while the RCMs are at 1 km resolution. 
+- ERA5 is at approximately 30 km resolution, while the RCMs are at 1 km resolution. 
 
--This shows the benefit of using high-resolution RCMs to explore the dynamics of extreme precipitation in West Antarctica
+- This shows the benefit of using high-resolution RCMs to explore the dynamics of extreme precipitation in West Antarctica
 
 :::
 

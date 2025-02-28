@@ -50,7 +50,11 @@ Over the last decades, both models and observations have shown a decrease in pH 
 
 There are several OA metrics, with pH being the most common one. It provides information about the hydrogen ion concentration in the ocean. While pH is an important parameter describing the seawater chemistry, it does not offer a complete picture of the effects of OA on marine ecosystems. A valuable metric for this purpose is the aragonite saturation (Ωₐ), defined as the ratio between the Ca2+ and CO₃2 concentrations and the saturation constant (Ksp):
 
-![Equation](equation.png)
+Ω = [Ca²⁺][CO₃²⁻] / Kₛₚ
+
+- If Ω > 1, then CaCO₃ precipitates  
+- If Ω = 1, then equilibrium  
+- If Ω < 1, then CaCO₃ dissolves 
 
 When Ωₐ drops below 1, the calcium carbonate used by corals and other marine organisms begins to dissolve, making it harder for these organisms to build and maintain their skeletons and shells.
 The climatology of the aragonite saturation horizon (depth at which Ωa=1) shows large spatial variability, with the deepest values along the ACC and south of the polar front. However, a shallowing of the aragonite saturation horizon by more than 200 m is observed across the entire SO..

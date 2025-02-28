@@ -4,7 +4,7 @@ trl: medium
 category: "PolarRES in Practice Stories"
 title: What is surface mass balance?
 author: "Marte Hofsteenge, Kristiina Verro"
-thumbnail: “image1.png"
+thumbnail: "image1.png"
 ---
 
 <!-- Section one -->
@@ -56,7 +56,7 @@ Even though the surface mass balance is positive, Antarctica is losing 110 km³ 
 
 <!-- Section five -->
 
-:::Chapter{headline="Future" image="image5.png"}
+:::Chapter{headline="Future" image="image5.gif"}
 
 ## In the future
 

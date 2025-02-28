@@ -52,6 +52,10 @@ There are several OA metrics, with pH being the most common one. It provides in
 
 Ω = [Ca²⁺][CO₃²⁻] / Kₛₚ
 
+- If Ω > 1, then CaCO₃ precipitates  
+- If Ω = 1, then equilibrium  
+- If Ω < 1, then CaCO₃ dissolves 
+
 When Ωₐ drops below 1, the calcium carbonate used by corals and other marine organisms begins to dissolve, making it harder for these organisms to build and maintain their skeletons and shells.
 The climatology of the aragonite saturation horizon (depth at which Ωa=1) shows large spatial variability, with the deepest values along the ACC and south of the polar front. However, a shallowing of the aragonite saturation horizon by more than 200 m is observed across the entire SO..
 

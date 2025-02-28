@@ -2,7 +2,7 @@
 id: 102
 trl: medium
 category: "PolarRES in Practice Stories"
-title: “Ocean Acidification in the Southern Ocean”
+title: Ocean Acidification in the Southern Ocean
 author: "Chiara De Falco, Lucía Gutiérrez-Loza and Cecilia Äijälä"
 thumbnail: "ocean_acifidication_schema.png"
 ---
@@ -50,7 +50,7 @@ Over the last decades, both models and observations have shown a decrease in pH 
 
 There are several OA metrics, with pH being the most common one. It provides information about the hydrogen ion concentration in the ocean. While pH is an important parameter describing the seawater chemistry, it does not offer a complete picture of the effects of OA on marine ecosystems. A valuable metric for this purpose is the aragonite saturation (Ωₐ), defined as the ratio between the Ca2+ and CO₃2 concentrations and the saturation constant (Ksp):
 
-Ω = [Ca<sup>2+</sup>][CO<sub>3</sub><sup>2-</sup>] / K<sub>sp</sub>
+`Ω = [Ca²⁺][CO₃²⁻] / Kₛₚ`
 
 - If Ω > 1, then CaCO₃ precipitates  
 - If Ω = 1, then equilibrium  

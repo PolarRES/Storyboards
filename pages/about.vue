@@ -6,13 +6,14 @@
       <div class="prose bg-white max-w-2xl p-8">
         <h2 class="text-center">About PolarRes</h2>
         <p>
-          Despite the crucial role Polar Regions play in stabilising the global climate system, there are still critical knowledge gaps regarding the impact of polar climate processes on multiple scales and how they are evolving with our changing global climate. PolarRES studies the interactions between the atmosphere, oceans, and sea ice in the Arctic and Antarctic. By understanding these processes and interactions in conjunction with an innovative storylines approach we adopt in PolarRES, a refined set of climate projections can be provided for the Polar Regions. This paves way for a more reliable assessment of the potential social and environmental impacts of climate change.
+          <a href="https://polarres.eu/">PolarRES</a> is a Horizon 2020 project funded by the European Union, dedicated to advancing our understanding of Polar climates in a global context. The project explores key interactions between the atmosphere, ocean, and ice in the Arctic and Antarctic, assessing how these systems respond to and influence projected changes in global circulation. To address the uncertainties in climate change projections that hinder effective mitigation and adaptation efforts, PolarRES employs state-of-the-art regional climate models (RCMs) at unprecedented resolutions. 
+        
+          PolarRES is a multi-partner project bringing together leading European experts across multiple climate science disciplines.
         </p>
 
         <h2 class="text-center">The Storyboards</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue molestie lorem, id rhoncus ipsum. Ut sit amet est in urna maximus faucibus. Mauris posuere semper ligula, vitae
-          vestibulum mi aliquam vel. Nam at dictum lacus.
+          The PolarRES in Practice Stories translate key discoveries from the PolarRES project into accessible content for a broad audience. By breaking down complex scientific findings into clear summaries, explainers, and real-world applications, these stories highlight how PolarRES research can be used to address the challenges arising from changes in the Polar Regions. Acting as a bridge between cutting-edge science and practical knowledge, they support decision-making, sustainability efforts, and adaptation strategies, ensuring that our scientific insights have a real-world impact!
         </p>
 
         <h2 class="text-center">Credit</h2>

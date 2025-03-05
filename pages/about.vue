@@ -6,9 +6,7 @@
       <div class="prose bg-white max-w-2xl p-8">
         <h2 class="text-center">About PolarRes</h2>
         <p>
-          <a href="https://polarres.eu/">PolarRES</a> is a Horizon 2020 project funded by the European Union, dedicated to advancing our understanding of Polar climates in a global context. The project explores key interactions between the atmosphere, ocean, and ice in the Arctic and Antarctic, assessing how these systems respond to and influence projected changes in global circulation. To address the uncertainties in climate change projections that hinder effective mitigation and adaptation efforts, PolarRES employs state-of-the-art regional climate models (RCMs) at unprecedented resolutions. 
-        
-          PolarRES is a multi-partner project bringing together leading European experts across multiple climate science disciplines.
+          PolarRES is a Horizon 2020 project funded by the European Union, dedicated to advancing our understanding of Polar climates in a global context. The project explores key interactions between the atmosphere, ocean, and ice in the Arctic and Antarctic, assessing how these systems respond to and influence projected changes in global circulation. To address the uncertainties in climate change projections that hinder effective mitigation and adaptation efforts, PolarRES employs state-of-the-art regional climate models (RCMs) at unprecedented resolutions. PolarRES is a multi-partner project bringing together leading European experts across multiple climate science disciplines.
         </p>
 
         <h2 class="text-center">The Storyboards</h2>

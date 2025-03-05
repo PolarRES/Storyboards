@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col gap-2">
-    <Header title="Overview of PolarRES Storyboards" />
+    <Header title="Overview of PolarRES in Practice Stories" />
 
     <div class="m-2 flex justify-center">
       <!-- search -->

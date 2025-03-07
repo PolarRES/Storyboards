@@ -11,6 +11,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   ssr: true,
+  nitro: {
+    preset: "static", // Ensure the correct preset
+  },
 
   devServer: {
     port: 3001,

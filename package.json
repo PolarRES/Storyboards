@@ -15,7 +15,7 @@
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@tailwindcss/typography": "^0.5.15",
-    "nuxt": "^3.13.0",
+    "nuxt": "^3.15.4",
     "remark-chapters-config": "file:remarkPlugins/remark-chapters-config",
     "remark-directive": "^3.0.0",
     "remark-sectionize": "^2.0.0",

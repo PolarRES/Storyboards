@@ -44,7 +44,7 @@ const query = ref("");
 
 const parseStories = (stories: StoryContentT[]) => {
   const parsedStories = stories.map((s) => {
-    s.slug = s._path?.replace("/stories/", "");
+    s.slug = s._path?.replace("/stories/", "") + "/";
     return s;
   });
 

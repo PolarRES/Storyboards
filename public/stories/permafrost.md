@@ -146,7 +146,7 @@ This suggests that the overall signal of permafrost loss is robust, regardless o
 
 :::Chapter{headline="Future subsidence changes" image="img13.png"}
 
-## When and Where will subsidence intensity?
+## When and Where will subsidence intensify?
 
 The timing of stronger subsidence varies by region, with a general acceleration from 2050 to 2060.
 

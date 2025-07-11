@@ -3,7 +3,7 @@ id: 106
 trl: medium
 category: "PolarRES in Practice Stories"
 title: What is permafrost?
-author: "Iris Mužić, Lu Li"
+author: "Iris Mužić, Lu Li and Hanna Lee"
 thumbnail: "thumb.gif"
 ---
 

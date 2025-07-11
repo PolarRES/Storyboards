@@ -15,9 +15,11 @@ thumbnail: "thumb.gif"
 
 - Permafrost is ground that stays frozen for at least two consecutive years, covering nearly a quarter of the Northern Hemisphere.
 
-- As Arctic temperatures rise rapidly, this frozen ground begins to thaw，causing the land to subside, damaging roads and buildings, and releasing ancient carbon stores in the form of greenhouse gases.
+- As Arctic temperatures rise rapidly, this frozen ground begins to thaw, causing the land to subside, damaging roads and buildings, and releasing ancient carbon stores in the form of greenhouse gases.
 
 - The thaw of permafrost is both a local hazard and a global climate concern.
+
+- Understanding where and how permafrost thaws helps us assess future impacts.
 
 :::
 
@@ -25,11 +27,13 @@ thumbnail: "thumb.gif"
 
 :::Chapter{headline="Modeling" image="img3.png"}
 
-## Modeling the permafrost thaw
+## Modeling permafrost thaw and subsidence
 
-**The objective:** To quantify land surface subsidence and the potential risks of permafrost thawing in the Arctic region
+To model perfafrost thaw, we simulate how ground ice respond to warming. The Community Terrestrial Systems Model with the Excess Ice module (CTSM-EXICE) represents ice-rich soil layers and how melting leads to ground subsidence (right). 
 
-Illustrations of the process understanding (left) and how it is simulated in the CTSM-EXICE model (right).
+Our goal is to quantify land surface subsidence and the potential risks of permafrost thawing in the Arctic region.
+
+The figure on the left illustrates the physical process: in ice-rich permafrost, thawing causes ground collapse, while in low-ice soils, thawing only deepens the active layer.
 
 :::
 
@@ -37,9 +41,9 @@ Illustrations of the process understanding (left) and how it is simulated in the
 
 :::Chapter{headline="Near-surface air temperature" image="img4.png"}
 
-## The Arctic is changing – fast
+## Warming at the surface
 
-CNRM-driven runs are warmer than NORESM-driven ones, so they are coloured in warmer colours. The 2 m temperature increase is visible everywhere in the Arctic, and warming is more pronounced in the autumn and winter seasons.
+Simulations driven by CNRM show warmer conditions than those driven by NORESM. The 2 m temperature increase is visible everywhere in the Arctic, and warming is more pronounced in the autumn and winter seasons.
 
 :::
 
@@ -47,9 +51,9 @@ CNRM-driven runs are warmer than NORESM-driven ones, so they are coloured in war
 
 :::Chapter{headline="Soil temperature" image="img5.png"}
 
-## Soil temperature at 1 m depth
+## Warming at 1m soil depth
 
-Smaller increase rate than T2.
+The increase in soil temperature at 1 m depth is more moderate than the surface warming but still contributes to long-term permafrost degradation.
 
 :::
 
@@ -57,7 +61,7 @@ Smaller increase rate than T2.
 
 :::Chapter{headline="Rainfall" image="img6.png"}
 
-## Rainfall
+## Rainfall increase
 
 A more pronounced increase in rainfall is also related to the CNRM-driven runs, and patterns are very similar to T2. Spring, summer and autumn are expected to have the strongest rainfall increase.
 
@@ -68,7 +72,7 @@ A more pronounced increase in rainfall is also related to the CNRM-driven runs, 
 
 :::Chapter{headline="Snowfall" image="img7.png"}
 
-## Rainfall
+## Snowfall decline
 
 Interannual variability in snowfall patterns is high. Snowfall decline is faster in CNRM-driven runs. There are regional differences in snowfall patterns, and a strong decline is associated with coastal Norway, among others. Spring and summer are the seasons of the most pronounced snowfall decline throughout the period.
 
@@ -78,7 +82,11 @@ Interannual variability in snowfall patterns is high. Snowfall decline is faster
 
 :::Chapter{headline="Permafrost extent 2015" image="img8.png"}
 
-## Permafrost extent in 2015 (in blue)
+## Permafrost extent in 2015
+
+This figure shows the simulated extent of near-surface permafrost in the year 2015 (blue areas), based on four different combinations of two global climate models (GCMs) and two regional climate models (RCMs) that selected from storyline method.
+
+It serves as the baseline for assessing future permafrost degradation. While models differ slightly, they all capture widespread permafrost across Siberia, northern Canada, Alaska, and parts of the Arctic coastline.
 
 :::
 
@@ -86,9 +94,13 @@ Interannual variability in snowfall patterns is high. Snowfall decline is faster
 
 :::Chapter{headline="Permafrost extent 2099" image="img9.png"}
 
-## Permafrost extent in 2099 (in blue)
+## Permafrost extent in 2099
 
-A change in the regional permafrost extent is very similar across configurations.
+By 2099, all model configurations project a significant reduction in permafrost extent compared to 2015.
+
+The remaining permafrost areas (shown in blue) are mostly limited to the high Arctic and isolated cold regions.
+
+Despite differences in climate model configurations, the projected spatial patterns of permafrost loss are highly consistent. This indicates a robust and widespread signal of warming-induced thaw across the Arctic.
 
 :::
 
@@ -96,13 +108,13 @@ A change in the regional permafrost extent is very similar across configurations
 
 :::Chapter{headline="Permafrost area" image="img10.png"}
 
-## The entire Arctic
+## Arctic-wide permafrost area projections
 
-- CNRM-driven simulations show a stronger decrease in permafrost extent 
+- Simulations driven by CNRM show a stronger decrease in permafrost extent than those driven by NORESM.
 
-- Our work accounts for two permafrost area extent definitions
+- This analysis considers two different definitions of permafrost area extent to assess model uncertainty (left figure).
 
-Steinert et al. (2023) include a global permafrost change (also areas outside of the Arctic).
+- The right figure, adapted from Steinert et al. (2023), shows global permafrost change (including regions outside the Arctic) based on ten different permafrost extent definitions applied to CMIP6 model outputs.
 
 :::
 
@@ -112,7 +124,9 @@ Steinert et al. (2023) include a global permafrost change (also areas outside of
 
 ## Change in permafrost area (2015 – 2099)
 
-Using one definition or the other yields very similar results.
+Despite using two different definitions of permafrost extent, the projected changes between 2015 and 2099 are highly consistent.
+
+This suggests that the overall signal of permafrost loss is robust, regardless of the specific definition applied.
 
 :::
 
@@ -120,11 +134,11 @@ Using one definition or the other yields very similar results.
 
 :::Chapter{headline="Subsidence sub-regions" image="img12.png"}
 
-## Future: areas of greatest ground subsidence
+## Where will the ground subside the most?
 
-- The regions of projected largest ground subsidence lie between 60° and 70° N 
+- The largest projected ground subsidence occurs between 60° and 70° N 
 
-- 5 regions of the same spatial extent across the respective latitude belt are selected as they are projected to experience more than 1 m of ground subsidence until 2100
+- five regions within this latitude band (each with equal spatial extent) are selected for detailed analysis, as they are projected to experience more than 1 m of ground subsidence by 2100.
 
 :::
 
@@ -132,26 +146,26 @@ Using one definition or the other yields very similar results.
 
 :::Chapter{headline="Future subsidence changes" image="img13.png"}
 
-## Future subsidence changes
+## When and Where will subsidence intensity?
 
-The period of the stronger subsidence depends on the region. A seemingly faster subsidence is from 2050-2060 onwards.
+The timing of stronger subsidence varies by region, with a general acceleration from 2050 to 2060.
 
-- The most pronounced change in subsidence (25 cm from present-day on average across the models) is in Canada (Region 5)
+- Regiona 5(Canada) shows the largest average subsidence, about 25 cm, across the models.
 
-- The uncertainty in subsidence magnitude is the largest in Region 4 (Alaska-Bering Sea)
+- Regiona 4(Alaska-Bering Sea) has the highest uncertainty in subsidence projections.
 
 :::
 
 <!-- Section thirteen -->
 
-:::Chapter{headline="Outputs" image="img14.png"}
+:::Chapter{headline="Model comparision and regional differences" image="img14.png"}
 
-## Future subsidence changes
+## Model comparision and regional differences
 
-In most regions, permafrost outputs from GCMs are more similar to each other than those from RCMs. 
+In most regions, permafrost projections from global climate models (GCMs) are more consistent than those from regional climate models (RCMs). 
 
-- CNRM-HCLIM-CTSM shows the fastest rate of permafrost thaw across the regions 
+- CNRM-HCLIM-CTSM shows the fastest permafrost thaw across the regions. 
 
-- The largest decrease in permafrost area extent is expected in Region 2 (around the Lena river) in Russia
+- The greatest loss in permafrost area is projected in Region 2, around the Lena river in Russia.
 
 :::

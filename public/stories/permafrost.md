@@ -2,7 +2,7 @@
 id: 106
 trl: medium
 category: "PolarRES in Practice Stories"
-title: What is permafrost?
+title: Arctic permafrost in the future
 author: "Iris Mužić, Lu Li and Hanna Lee"
 thumbnail: "thumb.gif"
 ---
@@ -169,3 +169,4 @@ In most regions, permafrost projections from global climate models (GCMs) are mo
 - The greatest loss in permafrost area is projected in Region 2, around the Lena river in Russia.
 
 :::
+

@@ -2,8 +2,8 @@
 id: 108
 trl: medium
 category: "PolarRES in Practice Stories"
-title: What is permafrost?
-author: "Iris Mužić, Lu Li and Hanna Lee"
+title: Radionuclide dispersion
+author: "Vladimir Maderich"
 thumbnail: "img1.jpg"
 ---
 
@@ -92,5 +92,6 @@ Currently, no significant radioactive leaks from locations of dumped materials a
 ## Future research priorities
 
 A specific problem is the role of ice in the transport of radioactivity, both through the entrainment of highly radioactive particles from bottom sediments during ice formation and through the transport of contaminated particles in the ocean. Although this problem, as it applies to the Kara Sea, has already been examined in several studies, it is necessary to revisit it.
+
 
 :::

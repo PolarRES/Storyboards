@@ -77,7 +77,7 @@ Based on model simulation, we showed that the bottom deposit is an important sou
 
 <!-- Section six -->
 
-:::Chapter{headline="Recommendations" image="img1.jpg"}
+:::Chapter{headline="Recommendations" image="img7.png"}
 
 ## Recommendations
 
@@ -95,4 +95,5 @@ A specific problem is the role of ice in the transport of radioactivity, both th
 
 
 :::
+
 

@@ -53,13 +53,13 @@ Monte-Carlo method was used to determine the new state of each particle at the n
 
 :::Chapter{headline="Our key findings" image="img5.png"}
 
-## Probability distribution for historic and projection case studies of ^137^Cs dispersion from sunk submarines and ice sheet
+## Probability distribution for historic and projection case studies of <sup>137</sup>Cs dispersion from sunk submarines and ice sheet
 
-1. The Lagrangian simulations of ^137^Cs transport in the Arctic Ocean seas demonstrate varied pathways depending on source locations and climate change of ocean circulation. The most important factor influencing the path of spread was the depth of the radioactivity outflow. 
+1. The Lagrangian simulations of <sup>137</sup>Cs transport in the Arctic Ocean seas demonstrate varied pathways depending on source locations and climate change of ocean circulation. The most important factor influencing the path of spread was the depth of the radioactivity outflow. 
 
 1. Whereas in the deep-water scenario of submarine “Komsomolets”, a portion of the caesium ending up in the bottom sediments is less than 1% of the activity, this part reaches 89% in the “K-29” scenario for in shallow Abrosimov fjord in the Kara Sea and
 
-1. Qualitatively, the dispersion of ^137^Cs is similar for historical and projection calculations. However, a portion of activity ending up in the bottom for historical and projection scenarios can differ by more than 50%.
+1. Qualitatively, the dispersion of <sup>137</sup>Cs is similar for historical and projection calculations. However, a portion of activity ending up in the bottom for historical and projection scenarios can differ by more than 50%.
 
 :::
 
@@ -95,3 +95,4 @@ A specific problem is the role of ice in the transport of radioactivity, both th
 
 
 :::
+

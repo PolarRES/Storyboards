@@ -3,7 +3,7 @@ id: 108
 trl: medium
 category: "PolarRES in Practice Stories"
 title: Radionuclide dispersion
-author: "Vladimir Maderich"
+author: "Vladimir Maderich and Igor Brovchenko"
 thumbnail: "img1.jpg"
 ---
 
@@ -81,7 +81,7 @@ Based on model simulation, we showed that the bottom deposit is an important sou
 
 ## Recommendations
 
-Currently, no significant radioactive leaks from locations of dumped materials and sunk submarines have been detected in the Arctic Ocean. However, such sources may emerge in the future, particularly as a result of melting coastal glaciers on Novaya Zemlya. Therefore, monitoring of these locations including bottom sediments is necessary next decades.
+Currently, no significant radioactive leaks from locations of dumped materials and sunk submarines have been detected in the Arctic Ocean. However, such sources may emerge in the future, particularly as a result of melting coastal glaciers on Novaya Zemlya. Therefore, monitoring of these locations including bottom sediments is necessary in the next decades.
 
 :::
 
@@ -93,7 +93,5 @@ Currently, no significant radioactive leaks from locations of dumped materials a
 
 A specific problem is the role of ice in the transport of radioactivity, both through the entrainment of highly radioactive particles from bottom sediments during ice formation and through the transport of contaminated particles in the ocean. Although this problem, as it applies to the Kara Sea, has already been examined in several studies, it is necessary to revisit it.
 
-
 :::
-
 
